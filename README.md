@@ -16,3 +16,9 @@ A bit about phi 3 vision -
 - Cut off date : Mar 15, 2024.
 - Release date : May 21, 2024.
 - Supports single image per conversation
+
+TO DO :
+- Analyse an image
+- OCR with bills and tasks
+- Compare images
+- Compare very similar images
