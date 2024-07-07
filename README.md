@@ -22,3 +22,4 @@ TO DO :
 - OCR with bills and tasks
 - Compare images
 - Compare very similar images
+- Compare with GPT 4o
